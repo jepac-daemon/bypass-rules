@@ -1,3 +1,6 @@
 # > Golang
 DOMAIN-SUFFIX, golang.org, Golang
 DOMAIN, golang-consa.l.google.com, Golang
+
+# > Github
+DOMAIN-SUFFIX, github.com, Github
