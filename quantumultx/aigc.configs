@@ -1,0 +1,4 @@
+
+host-keyword, openai, PROXY
+host-keyword, huggingface, PROXY
+host-keyword, ai.meta.com, PROXY
